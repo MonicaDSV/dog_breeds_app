@@ -6,7 +6,8 @@ import firebase from "firebase";
 import { Card } from "antd";
 import { Button } from "antd";
 //testing
-//push into test then will merge with master then will pull from master
+//push into test then will merge with master then will pull from master\
+//testing push again cause I forget
 
 const { Meta } = Card;
 
